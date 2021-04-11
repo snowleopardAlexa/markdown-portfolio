@@ -1,6 +1,6 @@
 # Skills
 
-Below is a list of my technical skills:
+**Below is a list of my technical skills:**
 
 ## Technologies
 - JavaScript
@@ -20,8 +20,8 @@ Below is a list of my technical skills:
 - Knowledge of typography, colors, images, layout
 
 ## IDEs
-- Visual Studio Code
-- Atom
+- _Visual Studio Code_
+- _Atom_
 
 ## Colaboration
 - Github
