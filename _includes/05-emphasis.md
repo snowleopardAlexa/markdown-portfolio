@@ -1,1 +1,29 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Below is a list of my technical skills:
+
+## Technologies
+- JavaScript
+- NodeJS
+- HTML
+- CSS
+- ReactJS
+- MongoDB
+- RESTful APIs
+- MySQL
+- PostgresSQL
+
+## UX/UI 
+- Advanced Sketch
+- Advanced Adobe Illustrator
+- Knowledge of UX process
+- Knowledge of typography, colors, images, layout
+
+## IDEs
+- Visual Studio Code
+- Atom
+
+## Colaboration
+- Github
+- Github Desktop
+- Git
